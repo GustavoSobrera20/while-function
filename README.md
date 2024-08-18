@@ -66,7 +66,7 @@ Use === para garantir uma comparação exata onde o tipo e o valor devem corresp
 
 
     function Fibonacci(n) {
-    let a = 0, b = 1;
+    var a = 0, b = 1;
     
     while (n-- > 0) {
         console.log(a); 
@@ -92,7 +92,7 @@ b recebe o valor da soma de a e b (ou seja, o próximo número na sequência de 
 (5) - Implemente um programa que inverte uma String fornecida pelo usuário utilizando um laço de repetição.(desafio)
 
      function invertString(string) {
-     let stringReverse = string.split("").reverse().join("");
+     var stringReverse = string.split("").reverse().join("");
   
      console.log(stringReverse);
   
