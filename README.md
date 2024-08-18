@@ -29,14 +29,14 @@
 (3) - Calcule a soma dos dígitos de um número fornecido pelo usuário utilizando um laço de repetição.
 
     function somaDigitosUsuario() {
-    let resultado = 0;
+    var resultado = 0;
 
     while (true) {
-        let numero_usuario = prompt("Digite um número (ou 'soma' para resultado): ");
+        var numero_usuario = prompt("Digite um número (ou 'soma' para resultado): ");
         if (numero_usuario === "soma") {
             break;
         }
-        let numero = parseInt(numero_usuario, 10);
+        var numero = parseInt(numero_usuario, 10);
         
         if (!isNaN(numero)) {
            
