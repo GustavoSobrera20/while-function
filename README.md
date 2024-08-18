@@ -89,3 +89,15 @@ a recebe o valor que estava em b.
 b recebe o valor da soma de a e b (ou seja, o próximo número na sequência de Fibonacci).
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+(5) - Implemente um programa que inverte uma String fornecida pelo usuário utilizando um laço de repetição.(desafio)
+
+     function invertString(string) {
+     let stringReverse = string.split("").reverse().join("");
+  
+     console.log(stringReverse);
+  
+     }
+
+     invertString("salve paulao ");
+
+video usado para ajuda : https://www.youtube.com/watch?v=2XekH_3BU6M&t=2s
