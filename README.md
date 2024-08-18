@@ -57,6 +57,7 @@
 ## o porque do ===
 
 O operador === é conhecido como o operador de igualdade estrita em JavaScript. Ele é usado para comparar dois valores, garantindo que ambos sejam do mesmo tipo e tenham o mesmo valor.
+
 Resumo
 Use === para garantir uma comparação exata onde o tipo e o valor devem corresponder exatamente
 
