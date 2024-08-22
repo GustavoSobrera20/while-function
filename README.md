@@ -88,6 +88,8 @@ O segundo elemento é a soma de a e b.
 a recebe o valor que estava em b.
 b recebe o valor da soma de a e b (ou seja, o próximo número na sequência de Fibonacci).
 
+Arrays são uma parte fundamental da linguagem JavaScript e são amplamente usados para manipular listas de dados e realizar operações complexas.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 (5) - Implemente um programa que inverte uma String fornecida pelo usuário utilizando um laço de repetição.(desafio)
 
